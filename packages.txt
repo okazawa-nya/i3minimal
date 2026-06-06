@@ -15,3 +15,11 @@ sudo
 wget
 curl
 polkitd
+
+# === Базовая графика и звук ===
+i3
+xinit
+xserver-xorg-core
+xserver-xorg
+i3status
+alsa-utils
