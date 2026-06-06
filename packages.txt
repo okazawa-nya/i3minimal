@@ -1,0 +1,17 @@
+# === Базовая графика и звук ===
+i3
+xinit
+i3status
+alsa-utils
+
+# === Терминал, лаунчер и обои ===
+rxvt-unicode
+dmenu
+feh
+
+# === Системные утилиты ===
+zram-tools
+sudo
+wget
+curl
+polkitd
